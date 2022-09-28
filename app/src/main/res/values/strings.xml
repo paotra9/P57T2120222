@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">P57T2120222</string>
+    <string name="titulo">Operaciones Basicas</string>
+    <string name="lt1">Ingrese el primer numero:</string>
+    <string name="hlt1">Numero 1</string>
+    <string name="lt2">Ingrese el segundo numero:</string>
+    <string name="hlt2">Numero 2</string>
+    <string name="lresult">El Resultado Es</string>
+    <string name="bs">Sumar</string>
+    <string name="br">Restar</string>
+    <string name="bm">Multiplicar</string>
+    <string name="bd">Dividir</string>
+    <string name="operaciones">Operaciones Basicas</string>
+
+</resources>
